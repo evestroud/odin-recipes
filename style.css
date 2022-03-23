@@ -23,3 +23,8 @@ h2 {
 	font-weight: bold;
 	background-color: #FFF2B3;
 }
+
+.recipe-image {
+	height: 500px;
+	width: auto;
+}
