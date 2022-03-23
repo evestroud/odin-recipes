@@ -7,14 +7,19 @@ h1 {
 	background-color: #B3E6FF;
 }
 
-.ingredients {
+h2 {
+	text-align: center;
+}
 
+.ingredients {
+	background-color: #FFB3C0;
 }
 
 .preparation {
-
+	background-color: #FFF2B3;
 }
 
 .recipe-list {
 	font-weight: bold;
+	background-color: #FFF2B3;
 }
