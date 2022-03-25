@@ -1,30 +1,30 @@
 html {
-	background-color: #ffccb3;
-	font-family: "Arial", sans-serif;
+  background-color: #ffccb3;
+  font-family: "Arial", sans-serif;
 }
 
 h1 {
-	background-color: #B3E6FF;
+  background-color: #B3E6FF;
 }
 
 h2 {
-	text-align: center;
+  text-align: center;
 }
 
 .ingredients {
-	background-color: #FFB3C0;
+  background-color: #FFB3C0;
 }
 
 .preparation {
-	background-color: #FFF2B3;
+  background-color: #FFF2B3;
 }
 
 .recipe-list {
-	font-weight: bold;
-	background-color: #FFF2B3;
+  font-weight: bold;
+  background-color: #FFF2B3;
 }
 
 .recipe-image {
-	height: 500px;
-	width: auto;
+  height: 500px;
+  width: auto;
 }
