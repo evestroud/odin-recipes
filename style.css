@@ -33,12 +33,24 @@ li {
 .ingredients {
   border: 2px solid #c98792;
   background-color: #FFB3C0;
-  width: 75%;
+  /* width: 75%; */
+}
+
+.ingredients h2 {
+  padding: 0;
+  margin: 5px;
+  background-color: #eb8899;
 }
 
 .preparation {
   border: 2px solid #bfb47e;
   background-color: #FFF2B3;
+}
+
+.preparation h2 {
+  padding: 0px;
+  margin: 5px;
+  background-color: #f0dd81;
 }
 
 .recipe-list {
