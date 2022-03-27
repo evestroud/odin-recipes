@@ -49,6 +49,14 @@ li {
   border-radius: 5px;
 }
 
+.recipe-list a {
+  display: inline-block;
+  padding: 2px 5px;
+}
+.recipe-list a:hover {
+  background-color: #b8a781;
+}
+
 .recipe-image {
   height: 500px;
   width: auto;
