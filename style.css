@@ -38,7 +38,7 @@ li {
 
 .ingredients h2 {
   padding: 0;
-  margin: 5px;
+  margin: 0px auto;
   background-color: #eb8899;
 }
 
@@ -49,7 +49,7 @@ li {
 
 .preparation h2 {
   padding: 0px;
-  margin: 5px;
+  margin: 0px auto;
   background-color: #f0dd81;
 }
 
