@@ -6,7 +6,7 @@ html {
 }
 
 h1 {
-  background-color: #B3E6FF;
+  background-color: #b3e6ff;
   padding: 5px;
   width: 75%;
   text-align: center;
@@ -26,14 +26,14 @@ li {
   padding: 5px;
 }
 
-.ingredients, .preparation {
+.ingredients,
+.preparation {
   border-radius: 5px;
 }
 
 .ingredients {
   border: 2px solid #c98792;
-  background-color: #FFB3C0;
-  /* width: 75%; */
+  background-color: #ffb3c0;
 }
 
 .ingredients h2 {
@@ -44,7 +44,7 @@ li {
 
 .preparation {
   border: 2px solid #bfb47e;
-  background-color: #FFF2B3;
+  background-color: #fff2b3;
 }
 
 .preparation h2 {
@@ -57,7 +57,7 @@ li {
   width: 50%;
   padding: 10px;
   font-weight: bold;
-  background-color: #FFF2B3;
+  background-color: #fff2b3;
   border: 2px solid #bfb47e;
   border-radius: 5px;
 }
@@ -77,6 +77,6 @@ li {
   margin: 0 auto;
   padding: 10px;
   border: 2px solid #bfb47e;
-  background-color: #FFF2B3;
+  background-color: #fff2b3;
   border-radius: 5px;
 }
